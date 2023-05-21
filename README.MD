@@ -66,5 +66,5 @@ This project was generated using [vite](https://vitejs.dev/)
 
 
 ### Configuration
-- Django settings can be found in the config/settings.py file.
-- React configuration can be found in the static/frontend/package.json file.
+- Django settings can be found in the settings.py file.
+- React configuration can be found in the static/frontend/todo-app/package.json file.
